@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">COMP2200 - Group 57 - Market Trends During The Covid Pandemic Within Australia</h3>
+  <h3 align="center">Market Trends During The Covid Pandemic Within Australia</h3>
   <p align="center">Joss Nguyen - 46454101</p>
   <p align="center">Liam Strang - 45426392</p>
   <p align="center">Olivia La Greca - 46409262</p>
