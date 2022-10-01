@@ -1,0 +1,28 @@
+---
+Victoria
+---
+21 March 2020: Restrictions Commenced
+28 March 2020: Stage 3 Lockdown restrictions commence
+9 July 2020: Restrictions Flemington and North Melb tightened
+19 July 2020: Restrictions tightened even further 
+30 July 2020: Restrictions continued to tighten
+18 October 2020: Some restrictions eased
+21 November 2020: Restrictions eased again -> Return to relative normality
+---
+New South Wales
+---
+16 March 2020: Restrictions commenced
+15 May 2020: Restrictions eased, capacities increased and reasons to leave home increased
+13 June 2020: Restrictions eased, capacities increased further and reasons to leave home increased
+19 December 2020: Northern Beaches outbreak 
+10 Feb 2021: Lockdown ends
+16 June 2021: Bondi Outbreak
+18 June 2021: Heavy restrictions on Northen Beaches LGA
+11 October 2021: Restrictions easing.
+---
+sources 
+---
+https://www.dhhs.vic.gov.au/coronavirus/updates/202105
+https://www.nsw.gov.au/covid-19	
+https://www1.racgp.org.au/newsgp/clinical/ending-the-second-wave-how-did-victoria-get-to-zer
+https://thispointer.com/python-how-to-convert-datetime-object-to-string-using-datetime-strftime/
